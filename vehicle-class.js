@@ -17,9 +17,9 @@ class Vehicle {
 }
 
 class Car extends Vehicle {
-    drive() {
-        super.name();
-        super.wheels();
+    constructor(name, wheels) {
+        super(name,4);
+      
     }
 }
 
@@ -28,9 +28,9 @@ class Motorcycle extends Vehicle {
     wheelie() {
         return 'Wheee!';
     }
-    drive() {
-        super.name();
-        super.wheels();
+    constructor(name, wheels) {
+        super(name,2);
+      
     }
 }
 

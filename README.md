@@ -5,22 +5,21 @@
 ### Author: Saja Swalgah
 
 ### Links and Resources
-submission PR
+submission PR :  https://github.com/Saja-401-advanced-javascript/class-02/pull/1
 ci/cd (GitHub Actions)
-back-end server url (when applicable)
-front-end application (when applicable)
 
-### Setup
-.env requirements (where applicable)
-i.e.
 
-PORT - Port Number
-MONGODB_URI - URL to the running mongo instance/db
-How to initialize/run your application (where applicable)
-e.g. npm start
-Tests
+
+
+#### How to initialize/run your application (where applicable)
+npm init -y 
+npm install jest eslint
+npm run test
+
+## Tests
 How do you run tests?
-Any tests of note?
-Describe any tests that you did not complete, skipped, etc
+npm run test
+
+
 UML
 Link to an image of the UML for your application and response to events
