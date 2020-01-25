@@ -6,7 +6,8 @@
 
 ### Links and Resources
 submission PR :  https://github.com/Saja-401-advanced-javascript/class-02/pull/1
-ci/cd (GitHub Actions)
+
+ci/cd (GitHub Actions) : https://github.com/Saja-401-advanced-javascript/class-02/commit/d03c25f04aac61b45d5fd5a952ce5e241bf46a79/checks?check_suite_id=411471915
 
 
 
@@ -22,4 +23,4 @@ npm run test
 
 
 UML
-Link to an image of the UML for your application and response to events
+![](img/class02.jpeg)
